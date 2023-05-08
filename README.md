@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 ### Black-Litterman model
 
-Please refer to the corresponding articles on 
-
 
 =======
 # Portfolio-Optimization---Black-Litterman
