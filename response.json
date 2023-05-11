@@ -1,0 +1,367 @@
+{
+  "revisions": {},
+  "estimates": {
+    "146": {
+      "target_price_low": {
+        "0": [
+          {
+            "effectivedate": "2023-05-09T04:10:06.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-09T00:00:00.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-07T22:56:13.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T10:54:18.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T10:11:54.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T09:39:25.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T07:56:44.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T07:31:13.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T04:50:04.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T04:35:00.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T04:25:40.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T04:12:00.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T03:54:29.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T03:41:20.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T03:27:05.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T03:16:29.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T02:26:46.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T02:06:48.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-05T01:03:31.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-04T21:18:32.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-02T05:12:06.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-05-01T04:50:54.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-04-26T05:00:22.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-04-25T22:31:29.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-04-24T04:35:00.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-04-19T04:16:48.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-04-13T08:00:44.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-04-12T21:19:21.000-04:00",
+            "dataitemvalue": "116.0"
+          },
+          {
+            "effectivedate": "2023-04-10T16:37:43.000-04:00",
+            "dataitemvalue": "116.0"
+          }
+        ]
+      },
+      "target_price_high": {
+        "0": [
+          {
+            "effectivedate": "2023-05-09T04:10:06.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-09T00:00:00.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-07T22:56:13.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T10:54:18.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T10:11:54.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T09:39:25.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T07:56:44.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T07:31:13.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T04:50:04.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T04:35:00.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T04:25:40.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T04:12:00.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T03:54:29.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T03:41:20.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T03:27:05.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T03:16:29.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T02:26:46.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T02:06:48.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-05T01:03:31.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-04T21:18:32.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-02T05:12:06.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-05-01T04:50:54.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-04-26T05:00:22.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-04-25T22:31:29.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-04-24T04:35:00.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-04-19T04:16:48.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-04-13T08:00:44.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-04-12T21:19:21.000-04:00",
+            "dataitemvalue": "210.0"
+          },
+          {
+            "effectivedate": "2023-04-10T16:37:43.000-04:00",
+            "dataitemvalue": "210.0"
+          }
+        ]
+      },
+      "target_price": {
+        "0": [
+          {
+            "effectivedate": "2023-05-09T04:10:06.000-04:00",
+            "dataitemvalue": "176.57619"
+          },
+          {
+            "effectivedate": "2023-05-09T00:00:00.000-04:00",
+            "dataitemvalue": "176.24286"
+          },
+          {
+            "effectivedate": "2023-05-07T22:56:13.000-04:00",
+            "dataitemvalue": "175.90952"
+          },
+          {
+            "effectivedate": "2023-05-05T10:54:18.000-04:00",
+            "dataitemvalue": "175.98095"
+          },
+          {
+            "effectivedate": "2023-05-05T10:11:54.000-04:00",
+            "dataitemvalue": "175.38571"
+          },
+          {
+            "effectivedate": "2023-05-05T09:39:25.000-04:00",
+            "dataitemvalue": "174.90952"
+          },
+          {
+            "effectivedate": "2023-05-05T07:56:44.000-04:00",
+            "dataitemvalue": "174.31429"
+          },
+          {
+            "effectivedate": "2023-05-05T07:31:13.000-04:00",
+            "dataitemvalue": "173.8381"
+          },
+          {
+            "effectivedate": "2023-05-05T04:50:04.000-04:00",
+            "dataitemvalue": "173.24286"
+          },
+          {
+            "effectivedate": "2023-05-05T04:35:00.000-04:00",
+            "dataitemvalue": "172.55238"
+          },
+          {
+            "effectivedate": "2023-05-05T04:25:40.000-04:00",
+            "dataitemvalue": "172.3381"
+          },
+          {
+            "effectivedate": "2023-05-05T04:12:00.000-04:00",
+            "dataitemvalue": "172.1"
+          },
+          {
+            "effectivedate": "2023-05-05T03:54:29.000-04:00",
+            "dataitemvalue": "171.98095"
+          },
+          {
+            "effectivedate": "2023-05-05T03:41:20.000-04:00",
+            "dataitemvalue": "171.71905"
+          },
+          {
+            "effectivedate": "2023-05-05T03:27:05.000-04:00",
+            "dataitemvalue": "171.48095"
+          },
+          {
+            "effectivedate": "2023-05-05T03:16:29.000-04:00",
+            "dataitemvalue": "171.40952"
+          },
+          {
+            "effectivedate": "2023-05-05T02:26:46.000-04:00",
+            "dataitemvalue": "171.29048"
+          },
+          {
+            "effectivedate": "2023-05-05T02:06:48.000-04:00",
+            "dataitemvalue": "171.21905"
+          },
+          {
+            "effectivedate": "2023-05-05T01:03:31.000-04:00",
+            "dataitemvalue": "171.57619"
+          },
+          {
+            "effectivedate": "2023-05-04T21:18:32.000-04:00",
+            "dataitemvalue": "171.05366"
+          },
+          {
+            "effectivedate": "2023-05-02T05:12:06.000-04:00",
+            "dataitemvalue": "171.1"
+          },
+          {
+            "effectivedate": "2023-05-01T04:50:54.000-04:00",
+            "dataitemvalue": "170.8619"
+          },
+          {
+            "effectivedate": "2023-04-26T05:00:22.000-04:00",
+            "dataitemvalue": "170.74286"
+          },
+          {
+            "effectivedate": "2023-04-25T22:31:29.000-04:00",
+            "dataitemvalue": "170.64762"
+          },
+          {
+            "effectivedate": "2023-04-24T04:35:00.000-04:00",
+            "dataitemvalue": "170.40952"
+          },
+          {
+            "effectivedate": "2023-04-19T04:16:48.000-04:00",
+            "dataitemvalue": "170.38571"
+          },
+          {
+            "effectivedate": "2023-04-13T08:00:44.000-04:00",
+            "dataitemvalue": "170.02857"
+          },
+          {
+            "effectivedate": "2023-04-12T21:19:21.000-04:00",
+            "dataitemvalue": "169.93333"
+          },
+          {
+            "effectivedate": "2023-04-10T16:37:43.000-04:00",
+            "dataitemvalue": "169.69524"
+          }
+        ]
+      }
+    }
+  }
+}
